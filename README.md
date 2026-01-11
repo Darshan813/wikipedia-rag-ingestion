@@ -17,8 +17,7 @@ Takes user queries, finds relevant chunks via semantic search, and returns conte
 - Python  
 - LangChain  
 - Vector Database (ChromaDB)  
-- OpenAI Embeddings  
-- Wikipedia API  
+- OpenAI Embeddings    
 
 ## How It Works
 
